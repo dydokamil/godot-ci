@@ -1,5 +1,5 @@
 FROM ubuntu:bionic
-LABEL author="artur@barichello.me"
+LABEL author="dydokamil"
 
 USER root
 
